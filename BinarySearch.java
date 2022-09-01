@@ -3,7 +3,7 @@ package com.bridgelabz.Datastructureandalgorithm;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BinarySearchWord {
+public class BinarySearch {
 	public static void main(String[] args) {
         BinarySearch binary = new BinarySearch();
         Scanner sc = new Scanner(System.in);
