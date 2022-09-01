@@ -1,4 +1,4 @@
-package com.bridgelabz.Datastructureandalgorithm;
+package com.bridgelabzDatastructureandalgorithm;
 
 public class BubbleSort {
 
