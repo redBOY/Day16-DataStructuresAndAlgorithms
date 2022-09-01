@@ -1,4 +1,4 @@
-package com.bridgelabz.Datastructureandalgorithm;
+package com.bridgelabzDatastructureandalgorithm;
 
 import java.util.Scanner;
 
